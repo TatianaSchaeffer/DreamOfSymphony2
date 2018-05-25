@@ -146,11 +146,27 @@
                         </div>
                     </div>
                     <div class="pb-center-column col-xs-12 col-sm-6 col-md.4">
-                        <h2 class="h2"><strong>Guitarra Eléctrica Queen SFV09 tipo Flying V</strong></h2>
+                        
                         <br>
                         <br>
+                        <div class="jumbotron">
+  <h2 class="h2"><strong>Guitarra Eléctrica Queen SFV09 tipo Flying V</strong></h2>
+  <p class="lead">Venta Solo via Online</p>
+  <p class="lead">Producto en Stock</p>
+  <hr class="my-4">
+  
+  <a class="btn btn-primary btn-lg" href="#" role="button">Agregar al Carro</a>
+ Cantidad <select name="Cantidad">
+      <option>1</option>
+      <option>2</option>
+      <option>3</option>
+      <option>4</option>
+      <option>5</option>
+  </select>
+</div>
                         
                     </div>
+                    
                     
                     <div class="tab-content" id="myTabContent" style="margin-top: 20px; margin-left: 55px">
                         <ul class="nav nav-tabs" id="myTab" role="tablist" >
@@ -231,67 +247,75 @@
             </article>
         </section>
             
-        <div class="footer"style="position:relative ;top: 50px; left: -1px;right: 200px" >
-            <footer class="page-footer font-small stylish-color-dark pt-4 mt-4" >
-                <div class="container text-center text-md-left">
-                    <div class="row">
-                        <!--First column-->
-                        <div class="col-md-4">
-                            <h5 class="text-uppercase mb-4 mt-3 font-weight-bold">Informacion de la Empresa</h5>
-                            <p>Dream Of Symphony es una empresa enfocada en ventas de instrumentos musicales.
-                            nacida en el año 2018 </p>
-                        </div>
-                        <hr class="clearfix w-100 d-md-none">
-                        <!--Second column-->
-                        <div class="col-md-2 mx-auto">
-                            <h5 class="text-uppercase mb-4 mt-3 font-weight-bold">Atencion Cliente</h5>
-                            <ul class="list-unstyled">
+       <div class="footer"style="position:relative ;top: 50px; left: -1px;right: 200px" >
+        <footer class="page-footer font-small stylish-color-dark pt-4 mt-4" >
 
-                                <li>
-                                    <p>Numero contacto:2246853</p>
-                                </li>
-                                <li>
-                                    <a href="#!">formulario consulta</a>
-                                </li>
+    
+           <div class="container text-center text-md-left">
+        <div class="row">
 
-                            </ul>
-                        </div>
-                        <!--/.Second column-->
-                        <hr class="clearfix w-100 d-md-none">
-                        <!--Third column-->
-                        <div class="col-md-2 mx-auto">
-                            <h5 class="text-uppercase mb-4 mt-3 font-weight-bold">Redes sociales</h5>
-                            <ul class="list-unstyled">
-                                <li>
-                                    <!-- Image and text -->
-                                    <nav class="">
-                                        <a class="navbar-brand" href="#">
-                                            <img src="img/facebook2.png" width="30" height="30" alt=""> Facebook
-                                        </a>
-                                    </nav>
-                                </li>
-                                <li>
-                                    <nav class="">
-                                        <a class="navbar-brand" href="#">
-                                            <img src="img/Instagram.png" width="30" height="30" alt=""> Instagram
-                                        </a>
-                                    </nav>
-                                </li>
-                                <li>
-                                    <nav class="">
-                                        <a class="navbar-brand" href="#">
-                                            <img src="img/Twitter.png" width="30" height="30" alt=""> Twitter
-                                        </a>
-                                    </nav>
-                               </li>
-                            </ul>
-                        </div>
-                        <hr class="clearfix w-100 d-md-none">
-                    </div>
-                </div>
-                <hr>
-            </footer>
+            <!--First column-->
+            <div class="col-md-4">
+                <h5 class="text-uppercase mb-4 mt-3 font-weight-bold">Informacion de la Empresa</h5>
+                <p>Dream Of Symphony es una empresa enfocada en ventas de instrumentos musicales.
+                nacida en el año 2018 </p>
+            </div>
+            
+
+            <hr class="clearfix w-100 d-md-none">
+
+            <!--Second column-->
+            <div class="col-md-2 mx-auto">
+                <h5 class="text-uppercase mb-4 mt-3 font-weight-bold">Atencion Cliente</h5>
+                <ul class="list-unstyled">
+                    
+                    <li>
+                        <p>Numero contacto:2246853</p>
+                    </li>
+                    <li>
+                        <a href="#!">formulario consulta</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!--/.Second column-->
+
+            <hr class="clearfix w-100 d-md-none">
+
+            <!--Third column-->
+            <div class="col-md-2 mx-auto">
+                <h5 class="text-uppercase mb-4 mt-3 font-weight-bold">Redes sociales</h5>
+                <ul class="list-unstyled">
+                    <li>
+                    <!-- Image and text -->
+       <nav class="">
+        <a class="navbar-brand" href="#">
+           <i class="fa fa-facebook-official" style="font-size:24px"></i> Facebook
+       </a>
+       </nav>
+                    </li>
+                    <li>
+            <nav class="">
+        <a class="navbar-brand" href="#">
+          <i class="fa fa-instagram" style="font-size:30px"></i> Instagram
+       </a>
+       </nav>
+         </li>
+         <li>
+         <nav class="">
+        <a class="navbar-brand" href="#">
+          <i class="fa fa-twitter-square" style="font-size:30px"></i> Twitter
+        </a>
+       </nav>
+        </li>
+                </ul>
+            </div>
+            <hr class="clearfix w-100 d-md-none">
         </div>
+        </div>
+        <hr>
+        </footer>
+         </div>
         </div>
        
             
