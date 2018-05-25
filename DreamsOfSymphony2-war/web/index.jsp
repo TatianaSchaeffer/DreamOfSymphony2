@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     
     <body>
-        <div >
+        <div class="container text-center text-md-left">
             <div class="Register" ><img src="img/cl.png" width="30" height="30" class="d-inline-block align-top" alt=""> Para mejor experiencia de Usuario :<a href=""> Ingrese Aquí</a> o <a href=""> Regístrese Aquí</a></div>
         <nav class="navbar navbar-light bg-light" >
             <a class="navbar-brand" href="index.jsp" style="position: relative;right: -235px">
@@ -313,6 +313,7 @@
         <hr>
         </footer>
          </div>
+        </div>
             
      
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
