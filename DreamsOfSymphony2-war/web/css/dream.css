@@ -2,20 +2,15 @@
     width: 500px;
 }
 
-#Cliente{
+#NombreP{
     width: 500px;
-    padding: 6px
 }
 
-#Direccion{
+#DescripcionP{
     width: 500px;
+    height: 150px;
+}
+
+#Contenedor1{
     
-}
-
-#Telefono{
-    width: 300px;
-}
-
-#Vendedor{
-    width: 500px;
 }
