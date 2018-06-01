@@ -74,13 +74,7 @@
                         <a class="dropdown-item" href="#">Acc. Bateria y Percusión</a>
                     </div>
             </div>
-            
-            
-            
-            
-            
-            
-            
+    
             <div class="btn-group">
                 <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Pianos y Teclados
