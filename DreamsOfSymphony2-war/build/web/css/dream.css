@@ -15,11 +15,29 @@
     background-color: #f0f0f0;
 }
 
-section{
-    background: #0062cc;
+#section1{
+    background: #fefefe;
     width: 700px;
     height: 600px;
     float: left;
+}
+
+#section2{
+    background: #17a2b8;
+    width: 900px;
+    height: 500px;
+    margin-bottom: 15px;
+}
+
+#img{
+    margin-top: 55px;
+}
+
+#section3{
+    background: #fefefe;
+    width: 700px;
+    height: 450px;
+    float: bottom;
 }
 
 aside{
@@ -37,4 +55,14 @@ aside{
     width: 150px;
     height: 50px;
     float: right;
+}
+
+footer{
+    float: end;
+}
+
+#desP{
+    position: static;
+    height: 300px;
+    width: 500px;
 }

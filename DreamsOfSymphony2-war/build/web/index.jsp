@@ -167,7 +167,7 @@
             
             <div class="row" id="sectionidex">
                 <div class="col">
-                    <section class="col-12">
+                    <section class="col-12" id="section1">
                         <div>
                             <h4><strong>Productos Destacados</strong></h4>
                             <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 650px;">
