@@ -20,11 +20,17 @@
       <th scope="col">Precio</th>
       <th scope="col">Cant.</th>
       <th scope="col">Subtotal</th>
+      <th scope="col">Total</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row"><a href=""> Guitarra Eléctrica Queen SFV09 tipo Flying V</a></th>
+        
+      
+    </tr>
+    <tr>
+        <th scope="row"><img class="d-block w-50" src="img/Destacado1.png"> Guitarra Eléctrica Queen SFV09 tipo Flying V</th>
+      <th scope="row"><a href=""> </a></th>
       <th scope="col-md" >$159.000   </th>
       <th scope="col-md" > <input type="text" size="2" placeholder="1"></th>
       <th scope="col-md" >$159.000   </th>
@@ -62,7 +68,7 @@
   </div>
 </div>
         
-      </p> 
+       
     </div>
   </div>
 </div>
