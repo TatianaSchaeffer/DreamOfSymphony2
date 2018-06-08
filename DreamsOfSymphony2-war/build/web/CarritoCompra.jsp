@@ -10,26 +10,27 @@
   <body>
     <div class="container">
   <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-8">
       
         <%--Tabla carro de Compras--%>
         
         <div>
-          <h2>Tu Carro de Compras</h2></div>
-            <table class="table table-bordered">
-                <thead>
+            <center> <h2>Tu Carro de Compras</h2></center></div>
+            <table class="table" border="1">
+                <thead class="thead-dark">
                     <tr>
+                        <th scope="col">Imagen del Producto</th>
                         <th scope="col">Nombre del Producto</th>
                         <th scope="col">Precio</th>
                         <th scope="col">Cant.</th>
                         <th scope="col">Subtotal</th>
-                        <th scope="col">Total</th>
+                        
                     </tr>
                 </thead>
                      <tbody>
                      <tr>
-                        <th scope="row"><img class="d-block w-50" src="img/Destacado1.png"> Guitarra Eléctrica Queen SFV09 tipo Flying V</th>
-                        <th scope="row"><a href=""> </a></th>
+                        <th scope="row"><img class="d-block w-50" src="img/Destacado3.png"></th>
+                        <th scope="row"> Máquina de Humo Carver Pro 500W FML500/3-10</th>
                         <th scope="col-md" >$159.000   </th>
                         <th scope="col-md" > <input type="text" size="2" placeholder="1"></th>
                         <th scope="col-md" >$159.000   </th>
@@ -39,33 +40,34 @@
             </table>
          </div>
          </div>
-    <div class="col-md-3">
+    <div class="col-md-4">
         
       <%--Cupon de Compras--%>
       
-        <div class="card">
-         <div class="card-body">
-                        <h5 class="card-title">Codigos de Descuento</h5>
-                         <p class="card-text">Ingrese un codigo de Cupón, si tiene.</p>
-                         <input type="text" size="40">
-                        <br>
-                         <br>
-                         <a href="#" class="btn btn-primary">Aplicar Cupón</a>
+        <div class="card border-dark mb-3" style="max-width: 50rem;" >
+         <div class="card-body" >
+             <center><h5 class="card-title">Codigos de Descuento</h5></center>
+             <center><p class="card-text">Ingrese un codigo de Cupón, si tiene.</p></center>
+             <center> <p><input type="text" size="30"></p></center>
+             <center> <a href="#" class="btn btn-info btn-lg">
+                         <span class="glyphicon glyphicon-ok-sign"></span> Aplicar Cupón
+                             </a></center>
         </div>
         </div>
     </div>
-    <div class="col-md-3">
+    <div class="col-md-4">
         
         <%--Pagar--%>
         
-        <div class="card">
+        <div class="card border-dark mb-3" style="max-width: 50rem;">
          <div class="card-body">
-                        <h5 class="card-title">Subtotal : $159.000</h5>
-                        <h5 class="card-title">Suma Total : $159.000</h5>
-                         <p class="card-text">Revise antes de aplicar el boton compra</p>
-                         <a href="#" class="btn btn-info btn-lg">
-                         <span class="glyphicon glyphicon-ok-sign"></span> Comprar
-                        </a>
+             <center><h5 class="card-title">Subtotal : $159.000</h5></center>
+             <center> <h5 class="card-title">Suma Total : $159.000</h5></center>
+                        <center><p class="card-text">Revise antes de aplicar el boton comprar.</p></center>
+                         <center> <a href="#" class="btn btn-info btn-lg">
+                         <span class="glyphicon glyphicon-shopping-cart"></span> Comprar
+                             </a></center>
+                        
         </div>
         </div>
         
