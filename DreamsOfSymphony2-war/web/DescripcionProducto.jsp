@@ -159,7 +159,7 @@
                                             <p class="lead">Venta Solo via Online</p>
                                             <p class="lead">Producto en Stock</p>
                                             <hr class="my-4">
-                                            <a class="btn btn-primary btn-lg" href="#" role="button">Agregar al Carro</a>
+                                            <a class="btn btn-primary btn-lg" href="CarritoCompra.jsp" role="button">Agregar al Carro</a>
                                             Cantidad <select name="Cantidad">
                                                 <option>1</option>
                                                 <option>2</option>
